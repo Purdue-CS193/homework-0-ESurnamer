@@ -15,11 +15,12 @@ Syntax highlighted code block
 ## Home of the Yante's
 ### An introductionary website to CS193
 
-- Bulleted
-- List
+- I love my TA's in CS193
+- The class content is superior. Will provide me with a world class education. 
 
-1. Numbered
-2. List
+1. Show up to class
+2. Complete the HW on time
+3. Repeat
 
 **Bold** and _Italic_ and `Code` text
 
